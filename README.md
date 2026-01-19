@@ -127,15 +127,8 @@ GitHub: https://github.com/Mateus-Estevao
 
 Projeto desenvolvido com fins educacionais e para demonstração de habilidades técnicas em processos seletivos.
 
-📄 Licença
-Este projeto é livre para estudo e aprendizado.
 
-yaml
-Copiar código
 
----
-
-## Próximo passo (importante para recrutador)
 Depois de criar o arquivo:
 
 ```bash
